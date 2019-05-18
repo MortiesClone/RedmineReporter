@@ -1,0 +1,6 @@
+{
+  "url": "demo.redmine.org",
+  "api_key": "your-api-key", // You can get it in account settings
+  "from": "2019-05-16",
+  "to": "2019-05-16"
+}
