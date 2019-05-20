@@ -2,5 +2,6 @@
   "url": "demo.redmine.org",
   "api_key": "your-api-key",
   "from": "2019-05-16",
-  "to": "2019-05-16"
+  "to": "2019-05-16",
+  "show_time": true
 }
